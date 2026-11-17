@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Qasim 👋</h1>
-<h3 align="center">Senior Full Stack Developer · Laravel · Node.js · React · Vue · OpenAI</h3>
+<h3 align="center">Senior Full Stack Developer | PHP . Laravel · Node.js · React · Vue · Python . Django | OpenAI, Chatbots & 3rd-Party API Integrations</h3>
 
 <p align="center">
   📍 Lahore, Pakistan &nbsp;|&nbsp; 💼 5+ years &nbsp;|&nbsp; 🚀 10+ production projects &nbsp;|&nbsp; 🌍 Open to remote opportunities
