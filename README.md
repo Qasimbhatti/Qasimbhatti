@@ -109,7 +109,7 @@ Real Estate Auction, Event Management, Property Intelligence, Barber Booking, In
 
 | Metric | Result |
 |---|---|
-| Production projects delivered | 10+ |
+| Production projects delivered | 20+ |
 | Automated tests (one system) | 1,106 passing, 100% controller coverage |
 | Backend execution time | 35% faster via query refactoring |
 | Deployment time | 60% faster |
