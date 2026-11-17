@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Developer | PHP . Laravel · Node.js · React · Vue · Python . Django | OpenAI, Chatbots & 3rd-Party API Integrations</h3>
 
 <p align="center">
-  📍 Lahore, Pakistan &nbsp;|&nbsp; 💼 6+ years &nbsp;|&nbsp; 🚀 10+ production projects &nbsp;|&nbsp; 🌍 Open to remote opportunities
+  📍 Lahore, Pakistan &nbsp;|&nbsp; 💼 6+ years &nbsp;|&nbsp; 🚀 20+ production projects &nbsp;|&nbsp; 🌍 Open to remote opportunities
 </p>
 
 <p align="center">
